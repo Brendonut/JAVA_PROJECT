@@ -29,6 +29,7 @@ public class Lacorte_methodActivity {
         System.out.println("Subtraction: " + calculate(2.5, .5, '-'));
         System.out.println("Multiplication: " + calculate(2.5, .5, '*'));
         System.out.println("Division: " + calculate(2.5, .5, '/'));
+	System.out.println("git");
     }
     
 }
